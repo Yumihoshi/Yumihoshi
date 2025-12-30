@@ -37,13 +37,14 @@
 > 只有足够小众才能足够大众
 
 
-### 💮ACG 计数器
+### 💮一些Stats
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
-
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=Yumihoshi&layout=donut&langs_count=5)
 
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=Yumihoshi&count_private=true&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats-seven-nu.vercel.app/?user=Yumihoshi&theme=tokyonight)
+
+[![osu! signature card](https://osu-sig.vercel.app/card?user=yumihoshi&mode=std&round_avatar=true&animation=true&skills=true&skillfigures=true)](https://osu.ppy.sh/u/yumihoshi)
