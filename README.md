@@ -47,4 +47,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-seven-nu.vercel.app/?user=Yumihoshi&theme=tokyonight)
 
-[![osu! signature card](https://osu-sig.vercel.app/card?user=yumihoshi&mode=std&round_avatar=true&animation=true&skills=true&skillfigures=true)](https://osu.ppy.sh/u/yumihoshi)
+[![osu! signature card](/card?user=yumihoshi&mode=mania&round_avatar=true&animation=true)](https://osu.ppy.sh/u/yumihoshi)
