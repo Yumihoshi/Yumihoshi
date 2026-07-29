@@ -11,6 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,vscode,linux,unity,godot)](https://skillicons.dev)
 
+[我的博客](https://www.cnblogs.com/yumihoshi)
 [📖「Notes」星途-Notion笔记](https://yumihoshi.notion.site/Notes-1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
 
 ### Stats
